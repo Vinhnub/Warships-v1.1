@@ -8,6 +8,8 @@ from Signal import *
 from GuiManager import *
 import random
 
+# Test
+
 serverIp = input("Enter server ip to connect:")
 pygame.init()
 pygame.mixer.init()
